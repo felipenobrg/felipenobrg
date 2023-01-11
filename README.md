@@ -6,8 +6,3 @@
 - 🔭 I’m studying JavaScript, Css, Html, React
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React*
-
-
-<br><br>
-
-## Contact
