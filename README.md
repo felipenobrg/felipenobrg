@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">💡 Hi, there! Me chamo <a href="https://www.linkedin.com/in/felipenobrg/
+  <h1 align="center">💡 Hi, there! My name is <a href="https://www.linkedin.com/in/felipenobrg/
 "><i>Felipe</i></a> 😃️</h1>
 </div>
 
