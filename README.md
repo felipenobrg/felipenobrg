@@ -1,3 +1,5 @@
+![bg-github](https://media.licdn.com/dms/image/D4D16AQGMr13YZLuK3w/profile-displaybackgroundimage-shrink_350_1400/0/1675299797218?e=1683158400&v=beta&t=D3X8K7fS31otYhQtZjevzmgGuOiGVBjhlcsDeG1aC5Q)
+
 <div>
   <h1 align="center">💡 Hi, there! My name is <a href="https://www.linkedin.com/in/felipenobrg/
 "><i>Felipe</i></a> 😃️</h1>
@@ -6,7 +8,7 @@
 <p align="center">I'm Front-End Developer. I'm focused on React, JavaScript, HTML and CSS.</p>
 
  [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-n%C3%B3brega/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipenobrega2012@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipenobrega2012@gmail.com)
 
 ![Felipe Nóbrega's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenobrg&show_icons=true&theme=dracula)
 
