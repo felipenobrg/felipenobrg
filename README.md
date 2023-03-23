@@ -10,11 +10,14 @@
  [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-n%C3%B3brega/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipenobrega2012@gmail.com)
 
-![Felipe Nóbrega's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenobrg&show_icons=true&theme=dracula)
 
 ### Technologies:
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenobrg)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="#">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenobrg&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+ 
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
