@@ -5,27 +5,25 @@
 "><i>Felipe</i></a> 😃️</h1>
 </div>
 
-<p align="center">I'm Front-End Developer. I'm focused on React, JavaScript, HTML and CSS.</p>
+<p align="center">I'm Front-End Developer. I'm focused on React, TypeScript, JavaScript, HTML and CSS.</p>
 
 ### Contacts:
  [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-n%C3%B3brega/) 
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipenobrega2012@gmail.com)
 
-
-### Technologies:
 <div align="center">
-  <a href="#">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenobrg&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+  <a href="https://github.com/felipenobrg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenobrg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenobrg&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-
-<div style="display: inline_block"><br/>
-   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   <img align="center" alt="javascript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
-   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> 
-   </br>
+  <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Felipe-Js" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Felipe-Ts" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Felipe-React" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Felipe-HTML" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Felipe-CSS" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-Git" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 </div>
 
 </div>
