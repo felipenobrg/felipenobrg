@@ -7,8 +7,9 @@
 
 <p align="center">I'm Front-End Developer. I'm focused on React, JavaScript, HTML and CSS.</p>
 
+### Contacts:
  [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-n%C3%B3brega/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipenobrega2012@gmail.com)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipenobrega2012@gmail.com)
 
 
 ### Technologies:
