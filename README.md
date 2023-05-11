@@ -1,4 +1,5 @@
-![bg-github](https://media.licdn.com/dms/image/D4D16AQGMr13YZLuK3w/profile-displaybackgroundimage-shrink_350_1400/0/1675299797218?e=1683158400&v=beta&t=D3X8K7fS31otYhQtZjevzmgGuOiGVBjhlcsDeG1aC5Q)
+![image](https://github.com/felipenobrg/felipenobrg/assets/122055576/7bd14bac-2109-4399-9e94-d909557a3717)
+
 
 <div>
   <h1 align="center">💡 Hi, there! My name is <a href="https://www.linkedin.com/in/felipenobrg/
