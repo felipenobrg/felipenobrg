@@ -1,6 +1,3 @@
-![image](https://github.com/felipenobrg/felipenobrg/assets/122055576/7bd14bac-2109-4399-9e94-d909557a3717)
-
-
 <div>
   <h1 align="center">💡 Hi, there! My name is <a href="https://www.linkedin.com/in/felipenobrg/
 "><i>Felipe</i></a> 😃️</h1>
