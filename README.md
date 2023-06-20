@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://media.licdn.com/dms/image/C4D16AQGQ3nGrFYV2mQ/profile-displaybackgroundimage-shrink_200_800/0/1650065034592?e=2147483647&v=beta&t=9emR_6s2WW3Sh-LC_MV1mglOCnZSZ1X_xkC43HkAhnA"  />
+![Banner](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <div>
   <h1 align="center">💡 Hi, there! My name is <a href="https://www.linkedin.com/in/felipenobrg/
 "><i>Felipe</i></a> 😃️</h1>
