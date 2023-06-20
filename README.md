@@ -15,7 +15,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenobrg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenobrg&layout=compact&langs_count=7&theme=dark"/>
 </div>
- 
+    <br />
+
+<h3>Language and Tools:</h3>
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Felipe-Js" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-Ts" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -26,7 +28,7 @@
   <img align="center" alt="Felipe-CSS" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felipe-Git" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
  <div align="center">
    
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
