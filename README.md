@@ -4,7 +4,7 @@
 "><i>Felipe</i></a> 😃️</h1>
 </div>
 
-<p align="center">I'm Front-End and Mobile Developer. I'm focused on ReactJS, React Native, NodeJS, NextJS, TypeScript and JavaScript.</p>
+<p align="center">I'm Fullstack. I'm focused on ReactJS, React Native, NodeJS, NextJS, TypeScript and JavaScript.</p>
 
 ### Contacts:
  [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipenobrg/) 
